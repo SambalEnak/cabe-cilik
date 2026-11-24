@@ -1,0 +1,6 @@
+{
+  "name": "Cabe Cilik — Cilik-cilik Nendang!",
+  "description": "Toko online interaktif Sambal Cabe Cilik: Korek Ijo Kelor, Korek Teri, dan Korek Kecombrang. Tanpa MSG dan lebih rendah minyak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
